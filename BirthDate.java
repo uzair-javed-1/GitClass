@@ -47,11 +47,11 @@ class BirthDate{
  	System.out.println(" ");
 	if(isyoung==objd.isJuniorOperator(objp))
 	{
-	System.out.println("you are less then 18 ");
+	System.out.println("You are not eligible for Driving License.");
 	}
 	else
 	{	
-	System.out.println("Your are now Young");
+	System.out.println("Yes you are eligible.");
 	} 
 }
 
